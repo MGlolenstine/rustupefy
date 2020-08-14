@@ -1,5 +1,5 @@
 ## Rustupefy!
-![stupefy](https://raw.githubusercontent.com/ivanceras/rustupefy/master/reference/stupefy2.jpg)
+![stupefy](https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/reference/stupefy2.jpg)
 
 [![Build Status](https://api.travis-ci.org/ivanceras/rustupefy.svg)](https://travis-ci.org/ivanceras/rustupefy)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
@@ -7,13 +7,13 @@
 A series of scripts to automagically transform vim into a stunningly beautiful and fast IDE for rust
 
 **From this**
-![simple vim](https://raw.githubusercontent.com/ivanceras/rustupefy/master/assets/bare_vim.png)
+![simple vim](https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/assets/bare_vim.png)
 
 **To this**
-![installed](https://raw.githubusercontent.com/ivanceras/rustupefy/master/assets/vim_complete.png)
+![installed](https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/assets/vim_complete.png)
 
 **And crazy responsive like this**
-![action](https://raw.githubusercontent.com/ivanceras/rustupefy/master/assets/vim_action.gif)
+![action](https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/assets/vim_action.gif)
 
 This script is aiming to jumpstart non-vim users to be able to use minimally configured vim for Rust development.
 
@@ -25,7 +25,7 @@ This script is aiming to jumpstart non-vim users to be able to use minimally con
 ```sh
 sudo apt-get install curl
 
-curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/ubuntu/setup.sh | sh
+curl -sSf https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/ubuntu/setup.sh | sh
 
 ```
 
@@ -33,7 +33,7 @@ curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/ubuntu/se
 
 ```sh
 
-curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/ubuntu/setup.sh | sh
+curl -sSf https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/ubuntu/setup.sh | sh
 
 ```
 
@@ -41,7 +41,7 @@ curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/ubuntu/se
 
 ```sh
 
-curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/ubuntu/uninstall.sh | sh
+curl -sSf https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/ubuntu/uninstall.sh | sh
 
 ```
 
@@ -51,7 +51,7 @@ curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/ubuntu/un
 ```sh
 sudo pacman -S curl
 
-curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/arch/setup.sh | sh
+curl -sSf https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/arch/setup.sh | sh
 
 ```
 
@@ -59,7 +59,7 @@ curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/arch/setu
 
 ```sh
 
-curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/arch/setup.sh | sh
+curl -sSf https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/arch/setup.sh | sh
 
 ```
 
@@ -67,7 +67,7 @@ curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/arch/setu
 
 ```sh
 
-curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/arch/uninstall.sh | sh
+curl -sSf https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/arch/uninstall.sh | sh
 
 ```
 
@@ -79,7 +79,7 @@ The script will undo as much as it can, but not guaranteed as it was before.
 ```sh
 sudo xbps-install curl
 
-curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/void/setup.sh | sh
+curl -sSf https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/void/setup.sh | sh
 
 ```
 
@@ -87,7 +87,7 @@ curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/void/setu
 
 ```sh
 
-curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/void/setup.sh | sh
+curl -sSf https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/void/setup.sh | sh
 
 ```
 
@@ -95,7 +95,7 @@ curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/void/setu
 
 ```sh
 
-curl -sSf https://raw.githubusercontent.com/ivanceras/rustupefy/master/void/uninstall.sh | sh
+curl -sSf https://raw.githubusercontent.com/MGlolenstine/rustupefy/master/void/uninstall.sh | sh
 
 ```
 
